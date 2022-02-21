@@ -1,0 +1,14 @@
+num = int(input('Enter A Number: '))
+another_num = int(input('Enter A Number: '))
+
+print('Addition-')
+print( num+another_num)
+
+print('Subtraction-')
+print( num-another_num)
+
+print('Multiplication-')
+print( num*another_num)
+
+print('Divison-')
+print( num/another_num)
